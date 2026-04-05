@@ -33,28 +33,28 @@ Brain tumors such as glioma and meningioma are among the most commonly studied t
   * Tumor Grade
 
 ## 📊 Dashboard Features
-### 1. KPI Cards
+#### 1. KPI Cards
  * Total Patients
  * Average Age
  * Average Tumor Size
  * Most Affected Brain Region
-### 2. Tumor Type Distribution
+#### 2. Tumor Type Distribution
  * Donut chart showing proportions of:
   * Glioma
   * Meningioma
   * Ependymoma
-### 3. Top Affected Brain Regions
+#### 3. Top Affected Brain Regions
  * Bar chart highlighting regions like:
  * Cerebellum
  * Brainstem
  * Temporal lobe
-### 4. Age Group Analysis  
+#### 4. Age Group Analysis  
   Identifies most affected group (e.g., 41–50)
-### 5. Time Trend Analysis  
+#### 5. Time Trend Analysis  
   Line chart showing annual diagnosis trends
-### 6. MRI Visualization  
+#### 6. MRI Visualization  
   Sample MRI scan included for contextual understanding
-### 7. Interactive Slicer  
+#### 7. Interactive Slicer  
   Filter by tumor grade (Confirmed / Unconfirmed)
   
 ### 🛠️ Tools & Technologies
